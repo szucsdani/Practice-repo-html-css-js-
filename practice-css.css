@@ -69,8 +69,5 @@ nav {
   display: grid;
   grid-template-columns: 33% 33% 33%;
   grid-template-rows: 50% 50%;
-}
-.grid-greyscale {
-  grid-column-start: 2;
   color: yellowgreen;
 }
